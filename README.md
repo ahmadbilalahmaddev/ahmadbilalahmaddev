@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 
-- 🔭 I’m currently working as a **web developer at MIA It**
+- 🔭 I’m currently working as a **web developer at MIA IT
 
-- 🌱 I’m currently learning **MS from NUST UNIVERSSITY Islamabad**
+- 🌱 I’m currently learning MS from NUST UNIVERSSITY Islamabad
 
 - contact [+92-3219037791](+92-3219037791)
 
-- 📫 How to reach me **bilalahmaddev123@gmail.com**
+- 📫 How to reach me bilalahmaddev123@gmail.com
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
