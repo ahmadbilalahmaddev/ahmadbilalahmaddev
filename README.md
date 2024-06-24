@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 
-- 🔭 I’m currently working as a **web developer at MIA IT
+- 🔭 I’m currently working as a web developer at MIA IT
 
 - 🌱 I’m currently learning MS from NUST UNIVERSSITY Islamabad
 
