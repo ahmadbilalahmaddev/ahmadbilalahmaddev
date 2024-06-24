@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a web developer at MIA IT
 
-- 🌱 I’m currently studying MS from NUST UNIVERSSITY Islamabad
+- 🌱 I’m currently studying MS from NUST UNIVERSITY Islamabad
 
 - contact [+92-3219037791](+92-3219037791)
 
