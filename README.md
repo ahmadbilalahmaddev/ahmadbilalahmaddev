@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm BILAL AHMAD</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center"> Full Stack Web Developer</h3>
 
 
 - 🔭 I’m currently working as a web developer at MIA IT
